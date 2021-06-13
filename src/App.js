@@ -13,7 +13,7 @@ function App() {
         <Navbar/>
         <div className="content"> 
           <Switch> 
-            {/* switch make sures 1 route is show at 1 time. all components go insideswitch*/}
+            {/* switch make sures 1 route is shown at 1 time. all components go insideswitch*/}
             <Route exact path="/">
               <Home/>
             </Route>
