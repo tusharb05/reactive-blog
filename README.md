@@ -1,4 +1,4 @@
-# reactive-blog
+# A blog website, with the power of React.js
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
